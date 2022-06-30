@@ -9,4 +9,3 @@ The goals of this workshop are to:
 Slides and more information is available in tba..
 
 
-I MADE A CHANGE!
