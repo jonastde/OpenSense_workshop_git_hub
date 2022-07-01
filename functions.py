@@ -19,7 +19,9 @@ def scatter_data(data,variable_1=None,variable_2=None):
         print('please provide two variable names!')
         return
     data.plot.scatter(x=variable_1,y=variable_2)
-    
-    
+
+def line_plot(x_data, y_data):
+	plt.scatter(x_data, y_data)
+	return
 
     
